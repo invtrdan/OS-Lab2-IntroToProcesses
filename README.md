@@ -1,1 +1,1 @@
-# OS-Lab2-IntroToProcesses
+# OS-Lab2: Processes and Signals
